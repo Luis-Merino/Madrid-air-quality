@@ -1,7 +1,7 @@
 # Madrid quality air forecast
 The purpose of this project is to to predict the PM2.5 values for next 24 hours, based on data from latest 24 hours obtained from all meteo stations located in Madrid city.
 
-This project has been inspired by the work of Robert Monarch: AI for good specialization. (https://www.coursera.org/specializations/ai-for-good). And also I took the liberty of using his nice plotting code.
+This project has been inspired by the AI for Good specialization by DeepLearning.AI. (https://www.coursera.org/specializations/ai-for-good). And also I took the liberty of using their nice plotting code.
 
 
 ## Installation: 
